@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/AEM-6.3-Demo"/>
+    <filter root="/content/AEM-6.3-Demo"/>
+    <filter root="/content/dam/AEM-6.3-Demo"/>
+</workspaceFilter>
